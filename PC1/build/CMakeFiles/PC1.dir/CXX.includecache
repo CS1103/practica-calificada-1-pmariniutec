@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Development/Cpp/POO2/practica-calificada-1-pmariniutec/PC1/TwoLinkedList.cpp
+TwoLinkedList.h
+/home/piero/Development/Cpp/POO2/practica-calificada-1-pmariniutec/PC1/TwoLinkedList.h
+
+/home/piero/Development/Cpp/POO2/practica-calificada-1-pmariniutec/PC1/TwoLinkedList.h
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+
+/home/piero/Development/Cpp/POO2/practica-calificada-1-pmariniutec/PC1/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cassert
+-
+TwoLinkedList.h
+/home/piero/Development/Cpp/POO2/practica-calificada-1-pmariniutec/PC1/TwoLinkedList.h
+
